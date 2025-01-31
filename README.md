@@ -28,8 +28,11 @@ $ npm i -g tsx
 $ tsx .
 ```
 يمكنك أيضا استخدام [codesandbox](https://codesandbox.io/dashboard/recent) لبدء الاستنساخ
+
 إذا كنت تريد تنزيل الأداة [YouTube](https://www.youtube.com/watch?v=01quPcpr3eg&t=36s)
+
 إذا كنت تريد استخدامه مباشر و يعمل على الهاتف أيضًا. [YouTube](https://www.youtube.com/watch?v=mBpyYZm4uzA&t=11s)
+
 ----
 
 ![Image](https://i.imgur.com/dbY87Wr.png)
